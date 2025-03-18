@@ -1,0 +1,7 @@
+[
+    {"city": "New York", "temperature": 22, "humidity": 60, "date": "2024-03-18"},
+    {"city": "Los Angeles", "temperature": 25, "humidity": 55, "date": "2024-03-18"},
+    {"city": "Chicago", "temperature": "HOT", "humidity": 70, "date": "2024-03-18"},
+    {"city": "Miami", "humidity": 80, "date": "2024-03-18"},
+    {"city": "San Francisco", "temperature": 18, "humidity": 65, "date": "2024-03-18"}
+]
