@@ -1,0 +1,23 @@
+zakładka Jobs:
+- prezentuje podsumowanie wszystkich jobów w aplikacji (status, czas trwania, postęp); można kliknąć na konkretnego joba i mieć dostęp do szczegółowych informacji
+
+zakładka Stages:
+- pokazuje aktualny stan wszystkich etapów zadań
+
+zakładka Storage:
+- pokazuje informacje o trwałych RDD oraz dataframe'ach, ich rozmiar i lokalizację w pamięci
+
+zakładka Enviroment:
+- szczegółowe informacje o konfiguracji środowiska sparka, np. zmienne środowiskowe, właściwości systemowe JVM, ustawienia aplikacji.
+
+Zakładka Executors:
+- pokazuje listę wszystkich uruchomionych executorów (status, zużycie pamięci, liczba uruchomionych zadań itp.)
+
+Zakładka SQL:
+- do monitorowania zapytań SQL wykonywanych w aplikacij (pokazuje plan wykonania, czas trwania, metryki różne).
+
+Zakładka JDBC/ODBC Server:
+- pokazuje szczegóły dotyczące sesji, w tym ich czas trwania, użytkownika, stan oraz uruchamiane zapytania SQL 
+
+Zakładka Structured Programming:
+- zawiera informacje m.in. o aktywnych strumieniach, latency, throughput, wskaźnikach błędów.
